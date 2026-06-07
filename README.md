@@ -2,9 +2,9 @@ Here is the completely revised, professional, and visually structured `README.md
 
 ---
 
-# 🌸 Project: Iris Dataset Exploration & Exploratory Data Analysis (EDA)
+#  Project: Iris Dataset Exploration & Exploratory Data Analysis (EDA)
 
-## 📋 Internship Project Overview
+##  Internship Project Overview
 
 This repository contains the implementation of **Task 1: Iris Dataset Exploration and Visualization** as part of the AI/ML Engineering Internship curriculum at **DevelopersHub Corporation**. The primary objective is to execute a rigorous Exploratory Data Analysis (EDA) on Sir Ronald Fisher's classic Iris dataset, extracting key statistical insights, distribution mechanics, and feature relationships necessary to guide downstream classification modeling.
 
