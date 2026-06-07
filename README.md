@@ -1,6 +1,3 @@
-Here is the completely revised, professional, and visually structured `README.md` for your Iris Dataset Exploration task, customized with your name and tailored to reflect high-quality software engineering and data science documentation standards.
-
----
 
 #  Project: Iris Dataset Exploration & Exploratory Data Analysis (EDA)
 
